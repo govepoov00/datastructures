@@ -144,7 +144,7 @@
             Console.Write("Do you want to sort (a)scending or (d)escending: ");
             char sorttype = Console.ReadKey().KeyChar;  //Testing execution time 
           
-            for (int j = 0; j >= n-2; j++)
+            for (int j = 0; j <= n-2; j++)
             {
                 for (int i = 0; i <= n-2; i++)
                 {
