@@ -298,7 +298,7 @@
         public static void Main()   // while runing the program, change the funtion name to "main"
         {
            
-           /*
+           
             linearsearch(20);
             Console.WriteLine("Press any key to continue to Binary Search");
             Console.ReadKey();
@@ -312,12 +312,14 @@
             Console.WriteLine("Press any key to Continue to Selection Sort");
             Console.ReadKey();
             selectionsort(20);
-            */
+            
+            /*
  Console.WriteLine("Original Array");  
  int[] array = RandomArray(20,false);
           quicksort(array,0,(array.Length-1),array[0]);
           Console.WriteLine("QuickSort Array");  
-           displayArray(array);
+           displayArray(array);*/
 
         }
     }
+
