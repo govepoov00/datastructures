@@ -172,7 +172,7 @@
           
 
             Console.WriteLine();
-        Console.WriteLine();
+            Console.WriteLine();
             if(sorttype=='a')
             Console.WriteLine("Array sorted in ascending order");
             if(sorttype=='d')
