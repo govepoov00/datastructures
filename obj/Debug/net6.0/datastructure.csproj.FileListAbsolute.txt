@@ -1,0 +1,15 @@
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\bin\Debug\net6.0\datastructure.exe
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\bin\Debug\net6.0\datastructure.deps.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\bin\Debug\net6.0\datastructure.runtimeconfig.json
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\bin\Debug\net6.0\datastructure.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\bin\Debug\net6.0\datastructure.pdb
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.csproj.AssemblyReference.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.AssemblyInfoInputs.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.AssemblyInfo.cs
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.csproj.CoreCompileInputs.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\refint\datastructure.dll
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.pdb
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\datastructure.genruntimeconfig.cache
+C:\Users\govep\Desktop\Work\Digital Skills\Sessions\Session14 28092022 - 29092022 - C#\datastructure\obj\Debug\net6.0\ref\datastructure.dll
